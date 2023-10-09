@@ -107,10 +107,10 @@ const Sidebar = () => {
                   fontWeight="bold"
                   sx={{ m: "10px 0 0 0" }}
                 >
-                  C. Aunger
+                  Rusaful Karim
                 </Typography>
                 <Typography variant="h5" color={colors.greenAccent[500]}>
-                  CEO | Heal Security
+                  CEO | Company Name
                 </Typography>
               </Box>
             </Box>
